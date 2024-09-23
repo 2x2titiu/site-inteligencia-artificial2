@@ -1,0 +1,26 @@
+body{font-family: Georgia, 'Times New Roman', Times, serif;/*Tipo de fonte*/
+    background-color: rgba(129, 129, 129, 0.884); /*Cor de fundo*/
+     
+    }
+    header{background-color: rgba(131, 130, 130, 0.884);
+    padding: 10px;
+    text-align: center;
+    }
+    h1{
+        color:rgba(0, 0, 0, 0.884) ;
+        text-align: center;
+    }
+    article{
+        background-color: rgba(211, 92, 92, 0.884);
+        padding: 10px;
+    }
+    button{
+        background-color: brown;
+        color: wheat;
+    
+    }
+    h2{
+        color: rgb(0, 0, 0);
+        text-align: center;
+    }
+ 
